@@ -1,7 +1,16 @@
 # JaneTech Samples
-Infrastructure and automation best practices
+Infrastructure and automation best practices.
+
+## Requirments
+
+- [`Node`](https://nodejs.org/en/download/)
+- [`AWS CLI`](https://aws.amazon.com/cli/)
 
 
-## Serverless
+## Project Directory Structure
 
-
+      ├── serverless
+      ├── terraforms
+      ├── SAM
+      
+      
