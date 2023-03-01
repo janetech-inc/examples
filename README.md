@@ -1,7 +1,7 @@
 # JaneTech Samples
 Infrastructure and automation best practices.
 
-## Requirments
+## Requirements
 
 - [`Node`](https://nodejs.org/en/download/)
 - [`AWS CLI`](https://aws.amazon.com/cli/)
